@@ -58,7 +58,7 @@ defmodule ExAdmin.Mixfile do
   defp deps do
     [
       {:decimal, "~> 1.0"},
-      {:phoenix, "~> 1.2"},
+      {:phoenix, "~> 1.4"},
       {:phoenix_html, "~> 2.6"},
       {:ecto, "~> 3.0"},
       {:phoenix_ecto, "~> 4.1"},
